@@ -16,7 +16,7 @@ const getData = function(err, myIndex) {
 require('search-index')(options, getData) // <- make a new index
 ```
 
-`search-index` is a freetext search library for JavaScript. You can use it to drop fantabulous search functionality into your javascript applications
+`search-index` is a freetext search library for JavaScript. You can use it to drop fantabulous search functionality into your javascript applications.
 
 Find out how to use the `search-index` module here:
 
